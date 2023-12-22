@@ -1,0 +1,18 @@
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\bin\Debug\net6.0\cocktails.json
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\bin\Debug\net6.0\Cocktails Suggester.exe
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\bin\Debug\net6.0\Cocktails Suggester.deps.json
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\bin\Debug\net6.0\Cocktails Suggester.runtimeconfig.json
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\bin\Debug\net6.0\Cocktails Suggester.dll
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\bin\Debug\net6.0\Cocktails Suggester.pdb
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.csproj.CopyComplete
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.dll
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\refint\Cocktails Suggester.dll
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.pdb
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\Cocktails Suggester.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Take Home Exam AI\Cocktails Suggester\obj\Debug\net6.0\ref\Cocktails Suggester.dll

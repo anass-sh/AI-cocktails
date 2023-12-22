@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cocktails Suggester", "Cocktails Suggester.csproj", "{9C329879-8C3C-4953-96E4-0033E58C2EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C329879-8C3C-4953-96E4-0033E58C2EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C329879-8C3C-4953-96E4-0033E58C2EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C329879-8C3C-4953-96E4-0033E58C2EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C329879-8C3C-4953-96E4-0033E58C2EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA7C42E-0EEB-4DC9-AA9C-AB289C8B39D0}
+	EndGlobalSection
+EndGlobal
